@@ -67,6 +67,10 @@
                                 Either email or password is incorrect.
                             </div>';
                     }
+                    
+
+                // uncomment this code if you want to use verification
+                    
                 /*
                 } else {
                     $verificationRequiredErr = '<div class="alert alert-danger">
